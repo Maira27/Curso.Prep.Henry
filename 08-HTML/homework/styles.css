@@ -3,9 +3,11 @@ div > ul{
     flex-direction: column;
     align-items: center;
 }
-
-h1 {
-color:beige; 
+h1{
+    color:beige;
+    background-color:burlywood;
+    padding: 18px; 
+    border-radius: 500px;
 }
 img{
     width: 400px;
@@ -14,11 +16,15 @@ img{
 #thirdDiv{
     height: 600px;
     width: 500px;
-    background-color:brown;
+    background-color:burlywood;
     padding: 50px;
     border: 3px solid black;
+    border-radius: 50px;
 }
 #spanId{
     font-size: 18px;
     margin: 50px;
+    background-color: cornsilk;
+    border-radius: 50px solid black;
 }
+
