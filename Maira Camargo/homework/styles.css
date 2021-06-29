@@ -1,0 +1,31 @@
+div > ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+color:beige; 
+background-color:darkgray;
+padding-block-start: 5px;
+font-size: 20px;
+}
+img{
+    width: 400px;
+    border-radius: 50px;
+}
+a{
+    height: 600px;
+    width: 500;
+    background-color:paleturquoise;
+    border-color: black;
+    border-radius: 50px;
+
+}
+span{
+    font-size: 18px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
