@@ -6,26 +6,19 @@ div > ul{
 
 h1 {
 color:beige; 
-background-color:darkgray;
-padding-block-start: 5px;
-font-size: 20px;
 }
 img{
     width: 400px;
     border-radius: 50px;
 }
-a{
+#thirdDiv{
     height: 600px;
-    width: 500;
-    background-color:paleturquoise;
-    border-color: black;
-    border-radius: 50px;
-
+    width: 500px;
+    background-color:brown;
+    padding: 50px;
+    border: 3px solid black;
 }
-span{
+#spanId{
     font-size: 18px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin: 50px;
 }
