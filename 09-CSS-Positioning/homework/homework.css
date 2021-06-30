@@ -30,7 +30,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Ejercicio 4: */
 #ejercicioCuatro {
-    position: absolute;
+    position:fixed;
     top: 0;
 }
 
