@@ -1,0 +1,11 @@
+img {
+    position: relative;
+    top: 0;
+    left: 5px;
+    width: 150px;
+    height: 150px;
+    border-radius: 7px;
+}
+h1 {
+    text-align: center;
+}
